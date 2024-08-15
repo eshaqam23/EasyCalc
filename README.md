@@ -1,3 +1,23 @@
+# React Calculator App
+
+## Description
+
+This is a simple and responsive calculator app built using React.js, HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division, along with the ability to clear the input and handle decimal values.
+
+## Features
+
+- **Basic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Responsive Design**: Adjusts to different screen sizes for usability on both desktop and mobile devices.
+- **Clear Functionality**: Clear the current input or reset the entire calculation.
+- **Decimal Support**: Perform calculations with decimal numbers.
+
+## Technologies Used
+
+- **React.js**: JavaScript library for building the user interface.
+- **HTML5**: Structure of the app.
+- **CSS3**: Styling and layout.
+- **JavaScript (ES6+)**: Logic and interactivity of the calculator.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
